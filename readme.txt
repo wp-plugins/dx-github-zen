@@ -1,4 +1,4 @@
-= DX GitHub Zen =
+=== DX GitHub Zen ===
 Contributors: nofearinc
 Tags: plugin, zen, github, messages, http
 Requires at least: 3.1
