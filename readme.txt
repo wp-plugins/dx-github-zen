@@ -1,4 +1,4 @@
-=== DX GitHub Zen ===
+= DX GitHub Zen =
 Contributors: nofearinc
 Tags: plugin, zen, github, messages, http
 Requires at least: 3.1
@@ -14,17 +14,17 @@ Add some Zen by GitHub to your WordPress website. The guys from GitHub provide a
 great API at https://api.github.com/zen with various geeky messages. The plugin
 is fetching the messages for use in a widget or shortcode.
 
-=== Timeout ===
+= Timeout =
 
 The API has a limit of 60 requests/min for anonymous users. A standard timeout of 20min
 is recommended for a normal load. Data is stored in a transient for internal access
 over the timeout period before updating it from the API.
 
-=== Widget ===
+= Widget =
 
 Use the DX GitHub Zen Widget and set a title and timeout for your messages.
 
-=== Shortcode ===
+= Shortcode =
 
 Use the [dx_github_zen] shortcode in your posts/pages to display the messages there.
  
