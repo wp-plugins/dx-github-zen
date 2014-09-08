@@ -1,9 +1,9 @@
 === DX GitHub Zen ===
-Contributors: nofearinc
+Contributors: nofearinc, devrix
 Tags: plugin, zen, github, messages, http
 Requires at least: 3.1
-Tested up to: 3.7
-Stable tag: 1.0
+Tested up to: 4.0
+Stable tag: 1.1
 License: GPLv2 or later
 
 Add some Zen by GitHub to your WordPress website
