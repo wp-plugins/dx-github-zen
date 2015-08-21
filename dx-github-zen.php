@@ -4,7 +4,7 @@
  * Description: Add some Zen by GitHub to your WordPress website
  * Author: nofearinc
  * Author URI: http://devwp.eu/
- * Version: 1.0
+ * Version: 1.1
  * Text Domain: dxgz
  * License: GPL2
 

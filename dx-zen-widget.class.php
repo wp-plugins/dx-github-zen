@@ -13,7 +13,7 @@ class DX_GitHub_Zen_Widget extends WP_Widget {
      * Register the widget
      */
     public function __construct() {
-        $this->WP_Widget(
+        parent::__construct(
             'dx_zen_widget',
             __("DX GitHub Zen Widget", 'dxgz'),
             array( 'classname' => 'dx_zen_widget_sample_single', 'description' => __( "Display a GitHub Zen Widget", 'dxgz' ) ),

@@ -1,8 +1,8 @@
 === DX GitHub Zen ===
-Contributors: nofearinc, devrix
+Contributors: nofearinc
 Tags: plugin, zen, github, messages, http
 Requires at least: 3.1
-Tested up to: 4.0
+Tested up to: 3.7
 Stable tag: 1.1
 License: GPLv2 or later
 
