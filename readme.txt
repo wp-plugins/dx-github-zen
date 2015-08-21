@@ -2,7 +2,7 @@
 Contributors: nofearinc
 Tags: plugin, zen, github, messages, http
 Requires at least: 3.1
-Tested up to: 3.7
+Tested up to: 4.3
 Stable tag: 1.1
 License: GPLv2 or later
 
